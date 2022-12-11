@@ -46,3 +46,7 @@ Prevent requests without valid authentication headers.
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+# image-filter-code-atake
+eb url: http://image-filter-starter-code-atake-dev.us-east-1.elasticbeanstalk.com/
+
+github url: https://github.com/SamuelATAKE/image-filter-code-atake.git
